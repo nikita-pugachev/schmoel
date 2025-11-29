@@ -4,7 +4,7 @@
     --font__family-Rambla-Bold: 'Rambla-Bold', sans-serif;
     --font__family-Titillium: 'Titillium', sans-serif;
     --background-gradient: linear-gradient(to right,#474746, #1D1D1B);
-    --background-image: url(/images/background-image.png);
+    --background-image: url(../images/background-image.png);
     --title-color: #FDC419;
     --border-color: linear-gradient(to bottom,#ED9B15, #FDC41A);
     --decorate-gradient: linear-gradient(to right, #202120 -4.57%, #3E3E3D 57.21%, #424241 72.66%, #3B3B3A 103.55%, #242422 149.89%);
