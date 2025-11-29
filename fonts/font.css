@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Rambla';
+    src: url(/fonts/Rambla-Regular.ttf) format('truetype');
+    font-weight: 400;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rambla-Bold';
+    src: url(/fonts/Rambla-Bold.ttf) format('truetype');
+    font-weight: bold;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FugazOne';
+    src: url(/fonts/FugazOne-Regular.ttf) format('truetype');
+    font-weight: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Titillium';
+    src: url(/fonts/TitilliumWeb-Regular.ttf) format('truetype');
+    font-weight: normal;
+    font-display: swap;
+}

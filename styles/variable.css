@@ -1,0 +1,14 @@
+:root {
+    --font__family-Rambla: 'Rambla', sans-serif;
+    --font__family-FugazOne: 'FugazOne', cursive;
+    --font__family-Rambla-Bold: 'Rambla-Bold', sans-serif;
+    --font__family-Titillium: 'Titillium', sans-serif;
+    --background-gradient: linear-gradient(to right,#474746, #1D1D1B);
+    --background-image: url(/images/background-image.png);
+    --title-color: #FDC419;
+    --border-color: linear-gradient(to bottom,#ED9B15, #FDC41A);
+    --decorate-gradient: linear-gradient(to right, #202120 -4.57%, #3E3E3D 57.21%, #424241 72.66%, #3B3B3A 103.55%, #242422 149.89%);
+    --decorate-bg-image: linear-gradient(to top, #202120 -4.57%, #3E3E3D 57.21%, #424241 72.66%, #3B3B3A 103.55%, #242422 149.89%);
+    --catalog-gradient: linear-gradient(289.99deg, rgba(135, 135, 135, 0.6) -47.98%, rgba(0, 0, 0, 0.6) 17.44%, rgba(135, 135, 135, 0.6) 73.51%, rgba(0, 0, 0, 0.6) 138.03%);
+    --bg-form-gradient: linear-gradient(90deg, #474746 15%, #1D1D1B 100%);
+}
