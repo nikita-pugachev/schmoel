@@ -445,7 +445,6 @@ input[type="checkbox"] {
 }
 
 .send-button {
-    max-width: 141px;
     cursor: pointer;
     align-self: end;
     display: flex;
@@ -632,7 +631,7 @@ input[type="checkbox"] {
 .submit-container {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    justify-content: space-between;
     gap: 15px;
 }
 
